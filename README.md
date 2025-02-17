@@ -65,9 +65,3 @@ To set this:
 
 ### 5. Build the Project
 Once the project properties are configured correctly, you can build the solution by selecting **Build** -> **Build Solution** (or pressing `Ctrl + Shift + B`).
-
-## Contributions
-Contributions are welcome! Feel free to submit pull requests or open issues.
-
-## License
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
