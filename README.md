@@ -53,7 +53,7 @@ C:\Program Files\IDA Professional 9.0\sdk\include;%(AdditionalIncludeDirectories
 
 #### Linker -> General -> Additional Library Directories:
 ```plaintext
-C:\Program Files\IDA Professional 9.0\sdk\libd_win_vc_64;%(AdditionalLibraryDirectories)
+C:\Program Files\IDA Professional 9.0\sdk\lib\x64_win_vc_64;%(AdditionalLibraryDirectories)
 ```
 
 ### 4. Set Build Configuration
